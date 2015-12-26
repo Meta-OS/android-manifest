@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="local_manifests" path="local_manifests" remote="meta-os" revision="cm-13.0" />
 
-  <!-- external Github remotes for meta-os-->
-  <remote name="meta-os" fetch="https://github.com/meta-os" />
-  <!-- <remote name="meta-os" fetch="https://github.com/meta-os" /> -->
-  <remote name="meta-os" fetch="https://github.com/meta-os" />
-  
-
-  
-</manifest>
