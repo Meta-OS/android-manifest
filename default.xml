@@ -22,8 +22,7 @@
   <project path="build" name="Meta-OS/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="Meta-OS/android" />
-  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
+ <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
